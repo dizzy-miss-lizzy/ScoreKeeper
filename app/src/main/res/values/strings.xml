@@ -1,0 +1,19 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Superbowl Score Keeper</string>
+
+    <!-- Team names -->
+    <string name="patriots_name">New England Patriots</string>
+    <string name="eagles_name">Philadelphia Eagles</string>
+
+    <!-- ImageView descriptions -->
+    <string name="patriots_logo">Patriots\' logo</string>
+    <string name="eagles_logo">Eagles\' logo</string>
+
+    <!-- Buttons -->
+    <string name="touchdown_button">Touchdown</string>
+    <string name="field_goal_button">Field Goal</string>
+    <string name="safety_conversion_button">Safety/\n2-point Conversion</string>
+    <string name="extra_point_button">Extra Point</string>
+    <string name="reset_button">Reset</string>
+</resources>
