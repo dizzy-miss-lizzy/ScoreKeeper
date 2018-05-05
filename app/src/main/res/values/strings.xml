@@ -1,14 +1,10 @@
 <resources>
     <!-- App name -->
-    <string name="app_name">Superbowl Score Keeper</string>
+    <string name="app_name">American Football Score Keeper</string>
 
     <!-- Team names -->
-    <string name="patriots_name">New England Patriots</string>
-    <string name="eagles_name">Philadelphia Eagles</string>
-
-    <!-- ImageView descriptions -->
-    <string name="patriots_logo">Patriots\' logo</string>
-    <string name="eagles_logo">Eagles\' logo</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
 
     <!-- Buttons -->
     <string name="touchdown_button">Touchdown</string>

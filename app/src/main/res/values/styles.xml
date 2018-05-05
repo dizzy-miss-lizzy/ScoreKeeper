@@ -8,4 +8,39 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TeamName">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/team_padding</item>
+        <item name="android:textColor">@color/teamName</item>
+        <item name="android:textSize">@dimen/team_text_size</item>
+    </style>
+
+    <style name="Score">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/score_padding_bottom</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/score_text_size</item>
+    </style>
+
+    <style name="ScoreButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/button_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/button_margin_left_start</item>
+        <item name="android:layout_marginRight">@dimen/button_margin_right_end</item>
+    </style>
+
+    <style name="ResetButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">@dimen/button_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/button_margin_bottom</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
 </resources>
